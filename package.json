@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Learning HTML, CSS and Javascript - ZTM WebDev 2019",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1s3cdAN/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p1s3cdAN/background-generator/issues"
+  },
+  "homepage": "https://github.com/p1s3cdAN/background-generator#readme"
+}
